@@ -1,6 +1,6 @@
 {
-  "id": "module",
-  "title": "New Module",
+  "id": "sogrom-dms-toolkit",
+  "title": "DM's Toolkit",
   "description": "",
   "version": "#{VERSION}#",
   "library": "false",
@@ -114,7 +114,7 @@
   ],
   "packFolders": [
     {
-        "name": "DM's Toolbox",
+        "name": "DM's Toolkit",
         "color": "#5046a0",
         "sorting": "m",
         "packs": [
@@ -142,7 +142,7 @@
     "hotReload": false,
     "dnd5e": {
         "sourceBooks": {
-            "DM's Toolbox": "DM's Toolbox"
+            "DM's Toolkit": "DM's Toolkit"
         }
       }
     }
