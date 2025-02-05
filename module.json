@@ -26,7 +26,18 @@
         "compatibility": {}
       }
     ],
-    "requires": []
+    "requires": [
+      {
+        "id": "dnd-dungeon-masters-guide",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd-players-handbook",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
   },
   "esmodules": [
     "scripts/module.js"
