@@ -142,7 +142,7 @@
     "hotReload": false,
     "dnd5e": {
         "sourceBooks": {
-            "DM's Toolkit": "DMsKit"
+            "DMsKit": "DM's Toolkit"
         }
       }
     }
