@@ -9,6 +9,7 @@ A collection of DM Tools to use in your games.
 
 | Version Number     | Details                                                |
 |--------------------|--------------------------------------------------------|
+|0.0.6               | Adds class spell books with all of their spells        |
 |0.0.5               | Sets PHB2024 and DMG2024 as required Modules           |
 |0.0.4               | Adds Bastion basic rooms at level 2 in to dm's kit     |
 |0.0.3               | Enables the Bastions Tab on Actor sheets from lvl 1    |
